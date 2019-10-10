@@ -40,26 +40,26 @@ var s17 = 10;
 
 
 function preload() {
-ipod = loadImage("ipodmouse.png");
+ipod = loadImage("gifss/ipodmouse.png");
 
-bgpic = loadImage("bg1.jpg")
-pic1 = loadImage("dc diamonds.png");
-pic2 = loadImage("avril cellphone.png")
-pic3 = loadImage("paris hoodie.png")
-pic4 = loadImage("xtina.png")
-pic5 = loadImage("ririno.png")
-pic6 = loadImage("gaga blood.png")
-pic7 = loadImage("bey fur denim.png")
-pic8 = loadImage("like a boy.jpg")
-pic9 = loadImage("doubledenim.jpg")
-pic10 = loadImage("lilkim.png")
-pic11 = loadImage("gng.jpg")
-pic12 = loadImage("lilkimbling.png")
-pic13 = loadImage("bey diamond hat.png")
-pic14 = loadImage("paristhatshot.png")
-pic15 = loadImage("ciara.jpg")
-pic16 = loadImage("riri.png")
-pic17 = loadImage("lohan dress.png")
+bgpic = loadImage("gifss/bg1.jpg")
+pic1 = loadImage("gifss/dc diamonds.png");
+pic2 = loadImage("gifss/avril cellphone.png")
+pic3 = loadImage("gifss/paris hoodie.png")
+pic4 = loadImage("gifss/xtina.png")
+pic5 = loadImage("gifss/ririno.png")
+pic6 = loadImage("gifss/gaga blood.png")
+pic7 = loadImage("gifss/bey fur denim.png")
+pic8 = loadImage("gifss/like a boy.jpg")
+pic9 = loadImage("gifss/doubledenim.jpg")
+pic10 = loadImage("gifss/lilkim.png")
+pic11 = loadImage("gifss/gng.jpg")
+pic12 = loadImage("gifss/lilkimbling.png")
+pic13 = loadImage("gifss/bey diamond hat.png")
+pic14 = loadImage("gifss/paristhatshot.png")
+pic15 = loadImage("gifss/ciara.jpg")
+pic16 = loadImage("gifss/riri.png")
+pic17 = loadImage("gifss/lohan dress.png")
 
 }
 function setup() {
